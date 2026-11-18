@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>SpinalFormMod</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- 游戏参考程序集和框架包 -->
+    <PackageReference Include="Book.StS2.RefLib" Version="*" />
+    <PackageReference Include="STS2.RitsuLib" Version="*" />
+  </ItemGroup>
+</Project>
