@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <!-- 游戏参考程序集和框架包 -->
-    <PackageReference Include="Book.StS2.RefLib" Version="*" />
+    <PackageReference Include="Book.StS2.RefLib" Version="0.113.0" />
     <PackageReference Include="STS2.RitsuLib" Version="*" />
   </ItemGroup>
 </Project>
