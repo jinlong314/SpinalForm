@@ -1,0 +1,5 @@
+{
+  "SPINAL_FORM_POWER.title": "脊背形态",
+  "SPINAL_FORM_POWER.description": "每打出第三张爪击，将其返回手牌并给予重放。",
+  "SPINAL_FORM_POWER.smartDescription": "每打出第三张[gold]爪击[/gold]，将其返回手牌并给予 {Amount} 层[gold]重放[/gold]。"
+}
