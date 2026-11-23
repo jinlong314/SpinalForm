@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>SpinalForm</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Book.StS2.RefLib" Version="0.113.1-beta" />
+    <PackageReference Include="STS2.RitsuLib" Version="*" />
+  </ItemGroup>
+</Project>
