@@ -1,0 +1,11 @@
+{
+  "id": "SpinalForm",
+  "name": "脊背形态",
+  "author": "jinlong314",
+  "description": "为故障机器人添加稀有技能牌：脊背形态。",
+  "version": "0.1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": true,
+  "dependencies": []
+}
